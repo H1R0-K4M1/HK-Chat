@@ -1,0 +1,5 @@
+sockets==1.0.0
+tkinter
+pillow
+PIL==8.4.0
+datetime==5.1
